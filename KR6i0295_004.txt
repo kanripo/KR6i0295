@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:30.197061
+#+DATE: 2015-08-30 20:15:34.797743
 #+TITLE: 佛說華手經
 #+PROPERTY: CBETA_ID T16n0657
 #+PROPERTY: ID KR6i0295
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 657
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0295_T_004-0148b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《佛說華手經》卷第四¶
+《佛說華手經》卷第四¶
 ¶
 後秦龜茲國三藏鳩摩羅什奉　詔譯¶
 
-15上清淨品(四)
-:PROPERTIES:
-:head: 上清淨品第十五
-:END:
-¶
+上清淨品第十五¶
 
 從月出剎至此中間，有世界名上清淨，是中¶
 有佛，號無相嚴，今現在，為多精進菩薩摩訶¶
@@ -910,11 +905,7 @@
 今現在，為陀羅尼自在王菩薩摩訶薩授無¶
 上道記。餘如上說。¶
 
-16散華品(四)
-:PROPERTIES:
-:head: 散華品第十六
-:END:
-¶
+散華品第十六¶
 
 從善成剎來過恒河沙等國土中間，有世界¶
 名普德成就，是中有佛，號一切緣中自在¶
